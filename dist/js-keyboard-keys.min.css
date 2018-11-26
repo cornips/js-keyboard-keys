@@ -1,0 +1,1 @@
+.key,[class*=key-]{border:1px solid #d4d4d4;border-radius:3px;padding:3px;border-bottom-width:2px;color:#868e96;cursor:default;transition:60ms}.keydown{background-color:#d4d4d4;border-color:rgba(134,142,150,.4)}.animated.key,.animated[class*=key-]{display:inline-block;height:2em}.animated.keydown{transform:translateY(1px);border-width:1px}

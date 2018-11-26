@@ -1,0 +1,17 @@
+p {
+    line-height: 1.8
+}
+.animated.key,
+.animated[class*=key-] {
+    line-height: 1.5;
+}
+pre {
+    background: #eaeef3;
+    padding: 5px 10px;
+}
+.keys-showcase {
+    zoom: 1.4;
+}
+.keys-showcase > span {
+    margin-right: 5px;
+}
